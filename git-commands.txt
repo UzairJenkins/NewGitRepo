@@ -1,0 +1,280 @@
+    1  ssh -D 8888 ukade1@10.178.2.165
+    2  ssh ukade1@10.178.2.165
+    3  ssh ukade1@10.175.2.165:15030
+    4  ssh ukade1@10.175.2.165
+    5  ssh ukade1@10.178.2.165
+    6  ssh -D 8888 ukade1@10.178.2.165
+    7  ssh _d 8888 ukade1@10.178.2.165
+    8  ssh -D 8888 ukade1@10.178.2.165
+    9  ssh -D 8888 ukade1@10.178.2.165
+   10  ssh -D 8888 ukade1@10.178.2.165
+   11  pwd
+   12  ls -ltr
+   13  mv myfirstscript.txt myfirstscript.sh
+   14  chmod 755 myfirstscript.sh 
+   15  ./myfirstscript.sh 
+   16  sh myfirstscript.sh uzair kader
+   17  sh myfirstscript.sh
+   18  sh myfirstscript.sh
+   19  ls -ltr
+   20  rm myfirstscript.txt
+   21  ls -ltr
+   22  ./myfirstscript.sh 
+   23  ls -ltr
+   24  ./myfirstscript.sh 
+   25  ./myfirstscript.sh 
+   26  ./myfirstscript.sh uzair kader
+   27  clear
+   28  nodeinfo
+   29  hostname
+   30  vi myfirstscript.sh 
+   31  ./myfirstscript.sh uzair kader
+   32  vi myfirstscript.sh 
+   33  ./myfirstscript.sh uzair kader
+   34  vi myfirstscript.sh 
+   35  ./myfirstscript.sh uzair kader
+   36  vi myfirstscript.sh 
+   37  ./myfirstscript.sh uzair kader
+   38  vi myfirstscript.sh 
+   39  ./myfirstscript.sh uzair kader
+   40  vi myfirstscript.sh 
+   41  ./myfirstscript.sh uzair kader
+   42  vi myfirstscript.sh 
+   43  ./myfirstscript.sh uzair kader
+   44  vi myfirstscript.sh 
+   45  ./myfirstscript.sh uzair kader
+   46  vi myfirstscript.sh 
+   47  ./myfirstscript.sh uzair kader
+   48  vi myfirstscript.sh 
+   49  ./myfirstscript.sh uzair kader
+   50  vi myfirstscript.sh 
+   51  ./myfirstscript.sh uzair kader
+   52  vi myfirstscript.sh 
+   53  ./myfirstscript.sh uzair kader
+   54  vi myfirstscript.sh 
+   55  ./myfirstscript.sh uzair kader
+   56  vi myfirstscript.sh 
+   57  ./myfirstscript.sh uzair kader
+   58  vi myfirstscript.sh 
+   59  ./myfirstscript.sh uzair kader
+   60  vi myfirstscript.sh 
+   61  ./myfirstscript.sh uzair kader
+   62  clear
+   63  vi myfirstscript.sh 
+   64  touch new.sh
+   65  vi new.sh 
+   66  cat myfirstscript.sh 
+   67  vi myfirstscript.sh 
+   68  vi new.sh 
+   69  chmod 777 new.sh 
+   70  sh new.sh 
+   71  vi new.sh 
+   72  sh new.sh 
+   73  vi new.sh 
+   74  sh new.sh 
+   75  vi new.sh 
+   76  vi new.sh 
+   77  sh new.sh 
+   78  vi new.sh 
+   79  sh new.sh 
+   80  vi new.sh 
+   81  vi new.sh 
+   82  ./new.sh 
+   83  vi new.sh 
+   84  ./new.sh 
+   85  ls -ltr
+   86  vi new.sh 
+   87  ./new.sh 
+   88  vi new.sh 
+   89  ./new.sh 
+   90  vi new.sh 
+   91  ./new.sh 
+   92  top
+   93  ls -ltr
+   94  cat new.sh 
+   95  ps
+   96  ps | grep usr
+   97  ps | grep usr | grep -v bash
+   98  0 6 * * Tue expr `date +\%W` \% 2 > /dev/null || /scripts/fortnightly.sh
+   99  0 6 * * Tue expr `date +\%W` \% 2 > /dev/null || test.sh
+  100  0 6 * * Tue expr `date +\%W` \% 2 > /dev/null || /test.sh
+  101  echo 0 6 * * Tue expr `date +\%W` \% 2 
+  102  date
+  103  pwd
+  104  git status
+  105  cd ..
+  106  git add git-learning
+  107  git commit -m " created new folder "
+  108  git push 
+  109  git push master
+  110  git push origin/master
+  111  git push origin
+  112  git push -u  origin master
+  113  cd git-learning
+  114  git push -u  origin master
+  115  cd.. 
+  116  cd ..
+  117  cd ..
+  118  ls
+  119  rm -f 'Uzair Folder'
+  120  rm -d 'Uzair Folder'
+  121  clear
+  122  git init
+  123  cd ..
+  124  cd H:/Uzair Folder
+  125  h:
+  126  git init
+  127  pwd
+  128  ls
+  129  ls -ltr
+  130  cd Uzair\ Folder/
+  131  ls -ltr
+  132  cd Uzair/
+  133  ls -ltr
+  134  vi myproject
+  135  git init
+  136  git status
+  137  git add *
+  138  git add *
+  139  git status
+  140  git add Documents
+  141  clear
+  142  ls -ltr
+  143  git init
+  144  git add Documents
+  145  git staus
+  146  git status
+  147  git push -u origin
+  148  git push --set-upstream origin master
+  149  git init
+  150  git add Douments
+  151  git add Documents
+  152  git status
+  153  git commit -m "Documents added"
+  154  git push -u origin master 
+  155  git push -u master 
+  156  git push -u master master 
+  157  git remote add origin git https://github.com/UzairJenkins/Documents.git
+  158  git push - u origin master
+  159  git push -u origin master
+  160  git push -u UzairJenkins master
+  161  git push -u UzairJenkins documents
+  162  git init
+  163  git commit -m "first git repository"
+  164  git push 
+  165  git remote add test https://github.com/UzairJenkins
+  166  git push -u origin master
+  167  git push -u test/master
+  168  git push --set-upstream origin master
+  169  git push -u origin --all
+  170  git remote add test https://github.com/UzairJenkins/test.git
+  171  git remote add test1 https://github.com/UzairJenkins/test.git
+  172  git push -u origin --all
+  173  git remote add origin https://github.com/UzairJenkins/Php_Sample.git
+  174  git init
+  175  git add .
+  176  git init
+  177  git add .
+  178  git commit -m "first commit"
+  179  git remote add origin git@github.com:UzairJenkins/Php_Sample.git
+  180  git push -u origin master
+  181  ssh-keygen -t rsa -b 4096 -C "uzair.sak@gmail.com"
+  182  eval $(ssh-agent -s)
+  183  ssh-add ~/.ssh/id_rsa
+  184  ssh-add ~/.ssh/id_rsa/gmailSSH
+  185  ssh-keygen -t rsa -b 4096 -C "uzair.sak@gmail.com"
+  186  eval $(ssh-agent -s)
+  187  ssh-add ~/.ssh/id_rsa
+  188  clip < ~/.ssh/id_rsa.pub
+  189  git push -u origin master
+  190  ls
+  191  git init
+  192  git status
+  193  git add file1.txt 
+  194  git commit
+  195  git commit -m 'My git files'
+  196  id
+  197  git remote add origin git@github.com:ukade1//test
+  198  git push -u origin master
+  199  git remote add origin https://github.com/ukade/test
+  200  git init
+  201  ls
+  202  git add file1.txt 
+  203  git commit -m 'My Git File'
+  204  git remote add origin git@github.com:ukade1/UzairJenkins/Php_Sample.git
+  205  git push -u origin master
+  206  git init
+  207  git add .
+  208  git remote add origin git@github.com:UzairJenkins/NewGitRepo.git
+  209  git commit -m 'My New repo'
+  210  git remote add origin git@github.com:UzairJenkins/NewGitRepo.git
+  211  git push -u origin master
+  212  ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+  213  Generating public/private rsa key pair.
+  214  Enter a file in which to save the key (/c/Users/you/.ssh/id_rsa):[Press enter]
+  215  /c/Users/you/.ssh/id_rsa):
+  216  /c/Users/you/.ssh/id_rsa):[Press enter]
+  217  clear
+  218  eval $(ssh-agent -s)
+  219  ssh-add ~/.ssh/id_rsa
+  220  git push -u origin master
+  221  git init
+  222  git push -u origin master
+  223  git status
+  224  git add file1.txt 
+  225  git commit -m 'Angular code updated'
+  226  git remote add origin git@github.com:UzairJenkins/NewGitRepo.git
+  227  git push -u origin master
+  228  git push
+  229  git status
+  230  git status
+  231  git clone git@github.com:UzairJenkins/NewGitRepo.git
+  232  git checkout -b "new_branch"
+  233  git checkout master
+  234  git checkout new_branch
+  235  git status
+  236  cd NewGitRepo/
+  237  git branches
+  238  git branch
+  239  git checkout -b "new-branch"
+  240  git branch
+  241  git status
+  242  git add file4.txt
+  243  git status
+  244  git commit -m "created new branch with file"
+  245  git push origin new-branch
+  246  git checkout master
+  247  history
+  248  git checkout new-branch
+  249  git checkout master
+  250  git checkout new-branch
+  251  git status
+  252  git add .
+  253  git status
+  254  git commit -m 'angular code'
+  255  git pust origin new-branch
+  256  git push origin new-branch
+  257  git status
+  258  git branch
+  259  git pull
+  260  git push -u origin new-branch 
+  261  git merge
+  262  git status
+  263  git add .
+  264  git status
+  265  git commit -m 'Test File'
+  266  history
+  267  git push orgin new-branch 
+  268  git pull
+  269  git push -u orgin new-branch 
+  270  git merge
+  271  git push -u orgin new-branch 
+  272  git status
+  273  git push origin new-branch 
+  274  git status
+  275  git pull
+  276  git status
+  277  git merge
+  278  history
+  279  ls
+  280  history > git-commands.txt
